@@ -43,3 +43,5 @@ O objetivo central desta atividade foi desenvolver uma aplicação web que inter
 - O vídeo tutorial que mostra o processo de configuração na Amazon EC2 e a integração efetiva com o Amazon RDS para gerenciamento do banco de dados.
 
 ## Link para o Vídeo de Demonstração: 
+
+https://drive.google.com/file/d/16sTXzta_h2pEL9sNMZN7LXWy8zVjJPSU/view?usp=drivesdk
